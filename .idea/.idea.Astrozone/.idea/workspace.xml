@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="547933c5-a628-4bc0-8035-f9fd6cc2e984" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/GameResources/Scripts/Timer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/BGScroller.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GameResources/Scripts/TimerView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GameResources/Scripts/CameraController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ApplicationQuit.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GameResources/Scripts/LevelController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GameResources/Scripts/SceneLoader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GameResources/Scripts/ObjectPooler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UJoystick/Example/Scrips/bl_ControllerExample.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GameResources/Scripts/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UJoystick/Content/Script/Core/bl_Joystick.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Mover.cs" />
+        <option value="$PROJECT_DIR$/Assets/Pool.cs" />
+        <option value="$PROJECT_DIR$/Assets/ObjectPooler.cs" />
+        <option value="$PROJECT_DIR$/Assets/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/RandomRotator.cs" />
+        <option value="$PROJECT_DIR$/Assets/DestroyByContact.cs" />
+        <option value="$PROJECT_DIR$/Assets/GameResources/Scripts/ObjectPooler.cs" />
+        <option value="$PROJECT_DIR$/Assets/CameraController.cs" />
+        <option value="$PROJECT_DIR$/Assets/TimerView.cs" />
+        <option value="$PROJECT_DIR$/Assets/PauseController.cs" />
+        <option value="$PROJECT_DIR$/Assets/GameResources/Scripts/CameraController.cs" />
+        <option value="$PROJECT_DIR$/Assets/LifeView.cs" />
+        <option value="$PROJECT_DIR$/Assets/EngameController.cs" />
+        <option value="$PROJECT_DIR$/Assets/LifeController.cs" />
+        <option value="$PROJECT_DIR$/Assets/TriggerManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/GameResources/Scripts/SceneLoader.cs" />
+        <option value="$PROJECT_DIR$/Assets/GameResources/Scripts/Timer.cs" />
+        <option value="$PROJECT_DIR$/Assets/GameResources/Scripts/LevelController.cs" />
+        <option value="$PROJECT_DIR$/Assets/GameMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/ApplicationQuit.cs" />
+        <option value="$PROJECT_DIR$/Assets/BGScroller.cs" />
+        <option value="$PROJECT_DIR$/Assets/GameResources/Scripts/PlayerController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fzIopNVVTA5FVtZAXHoJWy574j" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="547933c5-a628-4bc0-8035-f9fd6cc2e984" name="Default Changelist" comment="" />
+      <created>1597214673465</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597214673465</updated>
+      <workItem from="1597214678652" duration="1941000" />
+      <workItem from="1597237919559" duration="3834000" />
+      <workItem from="1597296330514" duration="16064000" />
+      <workItem from="1597346929452" duration="6324000" />
+      <workItem from="1597358731102" duration="27532000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="WindowStateProjectService">
+    <state x="884" y="107" key="SettingsEditor" timestamp="1597238179938">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="884" y="107" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1597238179938" />
+    <state x="606" y="134" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1597405122420">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="606" y="134" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1597405122420" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1597390697046">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1597390697046" />
+    <state x="623" y="225" key="search.everywhere.popup" timestamp="1597239084453">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1597239084453" />
+  </component>
+</project>
